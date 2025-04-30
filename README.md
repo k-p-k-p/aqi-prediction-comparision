@@ -4,7 +4,7 @@ This project uses machine learning models to predict Air Quality Index (AQI) usi
 
 ## 📊 Dataset
 
-- **Source**: [Kaggle AQI Dataset](https://www.kaggle.com/datasets)
+- **Source**: [Kaggle AQI Dataset](https://www.kaggle.com/datasets/rohanrao/air-quality-data-in-india?resource=download)
 - Features include PM2.5, PM10, NO2, SO2, CO, O3, etc.
 - Target: AQI value
 
